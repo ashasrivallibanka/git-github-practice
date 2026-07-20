@@ -35,3 +35,5 @@ git-github-practice/
 ## Goal
 
 To gain practical Git and GitHub skills required for DevOps, Cloud Engineering, and Software Development workflows.
+
+Testing Jenkins GitHub Integration
